@@ -64,5 +64,23 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Harness (nonprofit giving app) is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://harnessgiving.com/
+Harness provides a recurring giving platform for nonprofits, enabling frictionless monthly donor subscriptions, retention dashboards, and automated stewardship. Their suite helps organizations launch, grow, and retain donors with easy-to-use forms and subscription‑economy‑style experiences, aiming to increase sustainable funding for charitable causes.
+
+**Areas:** Company · Nonprofit · Giving · RecurringPayments · SaaS
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://harnessgiving.com/)
+- [Documentation](https://help.harnessgiving.com/)
+- [Getting started](https://help.goharness.com/en/articles/3753366-harness-your-3-onboarding-steps)
+- [Blog](https://goharness.com/blog)
+- [Terms of service](https://goharness.com/terms)
+- [Privacy policy](https://goharness.com/privacy)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/harness-giving/](https://apis.io/providers/harness-giving/).
